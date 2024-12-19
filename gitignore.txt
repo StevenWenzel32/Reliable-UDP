@@ -1,0 +1,13 @@
+#ignore the nfs files made in mobaxterm
+*.nfs*
+.nfs*
+*.nfs
+.*
+#ignore the compiled files
+*.out
+*.exe
+# ignore the specifc compiled files i have
+server
+client
+#ignore the readme file
+README.md
